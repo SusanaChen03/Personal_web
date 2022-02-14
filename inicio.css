@@ -7,8 +7,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-p{
+.name{
     font-size: 80px;
     font-weight: bold;
     margin-left: 60px;
@@ -42,4 +41,14 @@ a:link{
 a:visited{
     color: rgb(255,185,35);
     font-weight: bold;
+}
+a:hover{
+    text-decoration:underline;
+    color: rgb(255,185,35);
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
 }
