@@ -12,6 +12,34 @@ p{
     font-size: 80px;
     font-weight: bold;
     margin-left: 60px;
+    margin: 50px;
 }
 
+.content{
 
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px
+    
+}
+.linkcv{
+    margin-left: 50px;
+}
+.linkux{
+    margin-left: 120px;
+}
+.linkfull{
+    margin-left: 190px;
+}
+.linkcontact{
+    margin-left: 260px;
+}
+a:link{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(255,185,35);
+    font-weight: bold;
+}
