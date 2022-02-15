@@ -1,6 +1,18 @@
-# Página Web Personal de Susana Chen
-## Bienvenidos a visitar mi página web
+# Bienvenidos a mi página personal
 
 ### STACK TECNOLOGICO DE LA PÁGINA:
-<img src="imagenes/html5.png" width="50px" height="50px">
-<img scr="imagenes/css3.png" width="50px" height="50px">
+
+
+
+![alt text](imagenes/css3-html5-e1383236383597.png)  
+
+La web esta compuesta de una página de inicio con una bonita imagen de fondo, con los siguientes apartados donde pueden ver más información sobre mis trabajos:
+
+- Sobre mí
+- CV
+- Proyectos sobre UX/UI Design
+- Proyectos sobre Full Stack Developer
+- Contactos
+
+Cualquier duda o sugerencia no duden en contactar conmigo todas seran bienvenidos.
+
