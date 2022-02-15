@@ -33,15 +33,13 @@ body{
 .linkcontact{
     margin-left: 260px;
 }
+
 a:link{
-    color: black;
+    color: white;
     font-weight: bold;
     text-decoration: none;
 }
-a:visited{
-    color: rgb(255,185,35);
-    font-weight: bold;
-}
+
 a:hover{
     text-decoration:underline;
     color: rgb(255,185,35);
