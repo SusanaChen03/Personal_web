@@ -35,18 +35,19 @@ body{
 }
 
 a:link{
-    color: white;
+    color: black;
     font-weight: bold;
     text-decoration: none;
 }
 
 a:hover{
     text-decoration:underline;
-    color: rgb(255,185,35);
+    color: white;
 }
 
 footer{
     display: flex;
     justify-content: flex-end;
     margin-right: 50px;
+    margin-top: 60px
 }
