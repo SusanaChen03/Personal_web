@@ -1,0 +1,63 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-image:url("imagenes/fondomadera.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.tittle{
+    font-size: 80px;
+    font-weight: bold;
+    margin:50px 30px;
+}
+.links{
+    margin-top: 45px;
+}
+
+a{
+    font-weight: bold;
+}
+.linkinit{
+    margin-right: 50px;
+}
+.linkcv{
+    margin-right:50px
+}
+.linkux{
+    margin-right:50px
+}
+.linkfull{
+    margin-right:50px
+}
+
+a:link{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+    color: white;
+}
+
+hr{
+    border: 1px solid rgb(214, 206, 206);
+    width: 90%;
+
+}
+
+.photo{
+    display: flex;
+    align-items: center;
+    margin: 30px 70px;
+}
