@@ -15,7 +15,7 @@ header{
 
 
 .tittle{
-    font-size: 80px;
+    font-size: 40px;
     font-weight: bold;
     margin:50px 30px;
 }
@@ -56,8 +56,12 @@ hr{
 
 }
 
-.photo{
+.center{
     display: flex;
     align-items: center;
-    margin: 30px 70px;
+    margin: 30px 90px;
+}
+.parraf{
+    margin-right: 80px;
+    margin-left: 80px;
 }
