@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image:url("imagenes/fondomadera.jpg");
+    background-image:url("imagenes/colors.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -47,7 +47,7 @@ a:link{
 
 a:hover{
     text-decoration:underline;
-    color: white;
+    color: rgb(226, 130, 106)
 }
 
 hr{
