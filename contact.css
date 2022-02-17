@@ -53,3 +53,21 @@ hr{
     width: 90%;
 
 }
+
+
+.contentgrid{
+    margin-left: 500px;
+    margin-top:50px;
+}
+.data{
+    
+    display: grid;
+    grid-template-columns: 90px 500px;
+    
+}
+input{
+    display: flex;
+    justify-content: center;
+
+
+}
